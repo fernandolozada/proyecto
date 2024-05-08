@@ -1,0 +1,2 @@
+# proyecto
+Practica de git 
